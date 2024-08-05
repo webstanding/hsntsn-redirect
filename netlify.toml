@@ -5,3 +5,4 @@ from = "https://hsntsn.online/*"
 to = "https://hsntsnsuchmaschine.de/"
 status = 301
 force = true
+query = {path = ":path"}
