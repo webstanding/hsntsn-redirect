@@ -2,6 +2,6 @@
 
 [[redirects]]
 from = "https://hsntsn.online/*"
-to = "https://hsntsnsuchmaschine.de/"
+to = "https://hsntsnsuchmaschine.de/:splat"
 status = 301
 force = true
